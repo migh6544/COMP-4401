@@ -1,0 +1,563 @@
+[
+  {
+    "FirstName": "Maria",
+    "LastName": "Cantwell",
+    "State": "WA",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.cantwell.senate.gov/public/index.cfm/email-maria",
+    "PhoneNumber": "202-224-3441",
+    "TwitterHandle": "SenatorCantwell",
+    "Birthday": "1958-10-13",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Thomas",
+    "LastName": "Carper",
+    "State": "DE",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.carper.senate.gov/contact/",
+    "PhoneNumber": "202-224-2441",
+    "TwitterHandle": "SenatorCarper",
+    "Birthday": "1947-01-23",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Dianne",
+    "LastName": "Feinstein",
+    "State": "CA",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me",
+    "PhoneNumber": "202-224-3841",
+    "TwitterHandle": "SenFeinstein",
+    "Birthday": "1933-06-22",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Debbie",
+    "LastName": "Stabenow",
+    "State": "MI",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.stabenow.senate.gov/contact",
+    "PhoneNumber": "202-224-4822",
+    "TwitterHandle": "SenStabenow",
+    "Birthday": "1950-04-29",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Tammy",
+    "LastName": "Baldwin",
+    "State": "WI",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.baldwin.senate.gov/feedback",
+    "PhoneNumber": "202-224-5653",
+    "TwitterHandle": "SenatorBaldwin",
+    "Birthday": "1962-02-11",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Marsha",
+    "LastName": "Blackburn",
+    "State": "TN",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.blackburn.senate.gov/email-me",
+    "PhoneNumber": "202-224-3344",
+    "TwitterHandle": "MarshaBlackburn",
+    "Birthday": "1952-06-06",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Sherrod",
+    "LastName": "Brown",
+    "State": "OH",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.brown.senate.gov/contact/",
+    "PhoneNumber": "202-224-2315",
+    "TwitterHandle": "SenSherrodBrown",
+    "Birthday": "1952-11-09",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Benjamin",
+    "LastName": "Cardin",
+    "State": "MD",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.cardin.senate.gov/contact/",
+    "PhoneNumber": "202-224-4524",
+    "TwitterHandle": "SenatorCardin",
+    "Birthday": "1943-10-05",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Menendez",
+    "State": "NJ",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.menendez.senate.gov/contact",
+    "PhoneNumber": "202-224-4744",
+    "TwitterHandle": "SenatorMenendez",
+    "Birthday": "1954-01-01",
+    "Nickname": "Bob"
+  },
+  {
+    "FirstName": "Bernard",
+    "LastName": "Sanders",
+    "State": "VT",
+    "Party": "Independent",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.sanders.senate.gov/contact/",
+    "PhoneNumber": "202-224-5141",
+    "TwitterHandle": "SenSanders",
+    "Birthday": "1941-09-08",
+    "Nickname": "Bernie"
+  },
+  {
+    "FirstName": "Roger",
+    "LastName": "Wicker",
+    "State": "MS",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.wicker.senate.gov/public/index.cfm/contact",
+    "PhoneNumber": "202-224-6253",
+    "TwitterHandle": "SenatorWicker",
+    "Birthday": "1951-07-05",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Christopher",
+    "LastName": "Murphy",
+    "State": "CT",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.murphy.senate.gov/contact",
+    "PhoneNumber": "202-224-4041",
+    "TwitterHandle": "SenMurphyOffice",
+    "Birthday": "1973-08-03",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Mazie",
+    "LastName": "Hirono",
+    "State": "HI",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.hirono.senate.gov/contact",
+    "PhoneNumber": "202-224-6361",
+    "TwitterHandle": "MazieHirono",
+    "Birthday": "1947-11-03",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Kirsten",
+    "LastName": "Gillibrand",
+    "State": "NY",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.gillibrand.senate.gov/contact/email-me",
+    "PhoneNumber": "202-224-4451",
+    "TwitterHandle": "GillibrandNY",
+    "Birthday": "1966-12-09",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Amy",
+    "LastName": "Klobuchar",
+    "State": "MN",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+    "PhoneNumber": "202-224-3244",
+    "TwitterHandle": "SenAmyKlobuchar",
+    "Birthday": "1960-05-25",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Jon",
+    "LastName": "Tester",
+    "State": "MT",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.tester.senate.gov/?p=email_senator",
+    "PhoneNumber": "202-224-2644",
+    "TwitterHandle": "SenatorTester",
+    "Birthday": "1956-08-21",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Robert",
+    "LastName": "Casey",
+    "State": "PA",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.casey.senate.gov/contact",
+    "PhoneNumber": "202-224-6324",
+    "TwitterHandle": "SenBobCasey",
+    "Birthday": "1960-04-13",
+    "Nickname": "Bob"
+  },
+  {
+    "FirstName": "Sheldon",
+    "LastName": "Whitehouse",
+    "State": "RI",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+    "PhoneNumber": "202-224-2921",
+    "TwitterHandle": "SenWhitehouse",
+    "Birthday": "1955-10-20",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Barrasso",
+    "State": "WY",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+    "PhoneNumber": "202-224-6441",
+    "TwitterHandle": "SenJohnBarrasso",
+    "Birthday": "1952-07-21",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Martin",
+    "LastName": "Heinrich",
+    "State": "NM",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.heinrich.senate.gov/contact",
+    "PhoneNumber": "202-224-5521",
+    "TwitterHandle": "MartinHeinrich",
+    "Birthday": "1971-10-17",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Joe",
+    "LastName": "Manchin",
+    "State": "WV",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.manchin.senate.gov/public/index.cfm/contact-form",
+    "PhoneNumber": "202-224-3954",
+    "TwitterHandle": "Sen_JoeManchin",
+    "Birthday": "1947-08-24",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Kyrsten",
+    "LastName": "Sinema",
+    "State": "AZ",
+    "Party": "Independent",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.sinema.senate.gov/contact-kyrsten",
+    "PhoneNumber": "202-224-4521",
+    "TwitterHandle": "SenatorSinema",
+    "Birthday": "1976-07-12",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Elizabeth",
+    "LastName": "Warren",
+    "State": "MA",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.warren.senate.gov/?p=email_senator",
+    "PhoneNumber": "202-224-4543",
+    "TwitterHandle": "SenWarren",
+    "Birthday": "1949-06-22",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Angus",
+    "LastName": "King",
+    "State": "ME",
+    "Party": "Independent",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.king.senate.gov/contact",
+    "PhoneNumber": "202-224-5344",
+    "TwitterHandle": "SenAngusKing",
+    "Birthday": "1944-03-31",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Kevin",
+    "LastName": "Cramer",
+    "State": "ND",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "PhoneNumber": "202-224-2043",
+    "TwitterHandle": "SenKevinCramer",
+    "Birthday": "1961-01-21",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Deb",
+    "LastName": "Fischer",
+    "State": "NE",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.fischer.senate.gov/public/index.cfm/contact",
+    "PhoneNumber": "202-224-6551",
+    "TwitterHandle": "SenatorFischer",
+    "Birthday": "1951-03-01",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Ted",
+    "LastName": "Cruz",
+    "State": "TX",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.cruz.senate.gov/?p=form&id=16",
+    "PhoneNumber": "202-224-5922",
+    "TwitterHandle": "SenTedCruz",
+    "Birthday": "1970-12-22",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Timothy",
+    "LastName": "Kaine",
+    "State": "VA",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.kaine.senate.gov/contact",
+    "PhoneNumber": "202-224-4024",
+    "TwitterHandle": null,
+    "Birthday": "1958-02-26",
+    "Nickname": "Tim"
+  },
+  {
+    "FirstName": "Jacky",
+    "LastName": "Rosen",
+    "State": "NV",
+    "Party": "Democrat",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.rosen.senate.gov/contact_jacky",
+    "PhoneNumber": "202-224-6244",
+    "TwitterHandle": "SenJackyRosen",
+    "Birthday": "1957-08-02",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Rick",
+    "LastName": "Scott",
+    "State": "FL",
+    "Party": "Republican",
+    "StartDate": "2019-01-08",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.rickscott.senate.gov/contact/contact",
+    "PhoneNumber": "202-224-5274",
+    "TwitterHandle": "SenRickScott",
+    "Birthday": "1952-12-01",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Mike",
+    "LastName": "Braun",
+    "State": "IN",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.braun.senate.gov/contact-mike",
+    "PhoneNumber": "202-224-4814",
+    "TwitterHandle": "SenatorBraun",
+    "Birthday": "1954-03-24",
+    "Nickname": ""
+  },
+  {
+    "FirstName": "Joshua",
+    "LastName": "Hawley",
+    "State": "MO",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.hawley.senate.gov/contact-senator-hawley",
+    "PhoneNumber": "202-224-6154",
+    "TwitterHandle": "SenHawleyPress",
+    "Birthday": "1979-12-31",
+    "Nickname": "Josh"
+  },
+  {
+    "FirstName": "Mitt",
+    "LastName": "Romney",
+    "State": "UT",
+    "Party": "Republican",
+    "StartDate": "2019-01-03",
+    "CongressNumber": [
+      116,
+      117,
+      118
+    ],
+    "ContactForm": "https://www.romney.senate.gov/contact-senator-romney",
+    "PhoneNumber": "202-224-5251",
+    "TwitterHandle": "SenatorRomney",
+    "Birthday": "1947-03-12",
+    "Nickname": ""
+  }
+]
